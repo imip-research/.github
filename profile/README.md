@@ -1,8 +1,6 @@
 # Welcome to i-MIP  
 [![Website](https://img.shields.io/badge/Website-i--MIP.eu-blue)](https://i-mip.eu/en/the-institute/)
 
-**Institute for Macroeconomic and International Policies**
-
 🚧 This space is currently under construction.  
 We are preparing our open research infrastructure, including models, data workflows, and policy-analysis tools.  
 
